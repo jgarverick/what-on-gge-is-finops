@@ -61,6 +61,7 @@ Customers tend to look into FinOps as a practice because:
   - Proactive: Budgets and Alerts
   - Proactive: Utilization Profiles
   - Reactive: Service Disabling via Automation
+  - Reactive: Reporting on the Consumption APIs
 - Infrastructure as Code
   - ARM
   - Bicep
