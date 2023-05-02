@@ -59,6 +59,7 @@ Customers tend to look into FinOps as a practice because:
 
 - Proactive vs Reactive
   - Proactive: Budgets and Alerts
+  - Proactive: Utilization Profiles
   - Reactive: Service Disabling via Automation
 - Infrastructure as Code
   - ARM
