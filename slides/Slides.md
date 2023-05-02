@@ -37,52 +37,35 @@ According to the [FinOps Foundation](https://www.finops.org/introduction/what-is
 
 ## Customer Profiles
 
-![Image](https://picsum.photos/800/600)
+Customers tend to look into FinOps as a practice because:
+- They want to be fiscally responsible
+  - Avoidance of duplicative costs
+  - Prior experiences with runaway spend
+- They don't understand how consumption is billed
+- They want to pay for as little as possible
+- They want teams to have skin in the game
 
 ---
 
 ## Common Use Cases
 
-
-
----
-
-## Slide 4
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+- Cost awareness
+- Cost containment
+- Accounting gymnastics (chargebacks)
 
 ---
 
-## Slide 5
+## Enablement
 
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+- Proactive vs Reactive
+  - Proactive: Budgets and Alerts
+  - Reactive: Service Disabling via Automation
+- Infrastructure as Code
+  - ARM
+  - Bicep
+  - Terraform
 
 ---
 
-## Slide 6
+## Q&A Matinee
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
