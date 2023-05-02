@@ -60,12 +60,12 @@ Customers tend to look into FinOps as a practice because:
 - Proactive vs Reactive
   - Proactive: Budgets and Alerts
   - Proactive: Utilization Profiles
-  - Reactive: Service Disabling via Automation
-  - Reactive: Reporting on the Consumption APIs
+  - Reactive: [Service Disabling via Automation](https://samcogan.com/enforce-budgets-with-cost-management-and-logic-apps/)
+  - Reactive: [Reporting on the Consumption APIs](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/analyze-cost-data-azure-cost-management-power-bi-template-app)
 - Infrastructure as Code
   - ARM
-  - Bicep
-  - Terraform
+  - [Bicep](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-create-budget-bicep?tabs=CLI)
+  - [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/consumption_budget_resource_group)
 
 ---
 
