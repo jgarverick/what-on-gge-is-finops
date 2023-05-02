@@ -26,7 +26,8 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"yzhang.markdown-all-in-one",
-				"marp-team.marp-vscode"
+				"marp-team.marp-vscode",
+				"bierner.markdown-mermaid"
 			]
 		}
 	}

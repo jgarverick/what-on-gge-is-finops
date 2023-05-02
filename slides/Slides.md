@@ -2,7 +2,6 @@
 marp: true
 theme: midnight
 transition: fade
-footer: 'https://example.com'
 style: |
   .columns {
     display: grid;
@@ -22,28 +21,29 @@ style: |
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 ---
 <!-- _class: "title-slide" -->
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# What on God's Green Earth is FinOps?
+![bg right](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/media/tutorial-acm-create-budgets/cost-analysis.png#lightbox)
 
 ---
 
-## Slide 1
+## What is FinOps, really?
 
-- Item 1
-- Item 2
-- Item 3
+According to the [FinOps Foundation](https://www.finops.org/introduction/what-is-finops/):
+
+>"FinOps is an evolving cloud financial management discipline and cultural practice that enables organizations to get maximum business value by helping engineering, finance, technology and business teams to collaborate on data-driven spending decisions."
+
 
 ---
 
-## Slide 2
+## Customer Profiles
 
 ![Image](https://picsum.photos/800/600)
 
 ---
 
-## Slide 3
+## Common Use Cases
 
-> This is a quote.
+
 
 ---
 

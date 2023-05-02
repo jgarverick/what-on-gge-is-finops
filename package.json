@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "mermaid.cli": "^0.5.1"
+  },
+  "scripts": {
+    "build-images": "node create-img.js"
+  }
+}

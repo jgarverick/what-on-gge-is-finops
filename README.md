@@ -57,3 +57,4 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 - [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 - [Starter workflows](https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml)
 - [Actions/starter-workflows](https://github.com/actions/starter-workflows/blob/main/LICENSE)
+1. [usecases](generated/usecases/README.md)
